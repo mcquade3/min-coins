@@ -1,6 +1,6 @@
 #!/usr/local/bin/perl
 # Mike McQuade
-# BA5A.pl
+# Min-coins.pl
 # Counts the minimum number of coins needed to add up
 # to a certain number.
 
